@@ -1,0 +1,103 @@
+/*Main CSS*/
+
+body {
+	background-color: #C5D2DB;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+	color: white;
+}
+
+/*Navbar CSS*/
+
+.navbar-custom .navbar-nav .nav-link {
+	color: #1A1A1A;
+}
+.navbar-custom {
+    background-color: #C5D2DB;
+}
+
+/*Intro CSS*/
+
+.intro {
+	background-color: #C5D2DB;
+}
+
+.intro h1 {
+	color: #2096BA;
+}
+
+.btn-outline-primary.custom-btn {
+	border-color: #2096BA;
+	border-radius: 40px;
+	border-width: 3px;
+	color: #1A1A1A;
+	min-width: 300px;
+	/*.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active*/
+}
+.btn-outline-primary:hover {
+	box-shadow: 1px 1px 5px #2096BA;
+	background-color: #C5D2DB;
+}
+
+.btn-outline-primary:focus {
+	background-color: #2096BA;
+}
+/*Work CSS*/
+
+.work {
+	background-color: #C5919D;
+}
+
+/*Work Cards*/
+
+.card {
+	border: none;
+}
+
+.job-title {
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+hr {
+width: 25px;
+height: 4px;
+margin-left: auto;
+margin-right: auto;
+background-color: white;
+border-color: white;
+}
+
+.job-location {
+	color: white;
+	font-size: 16px;
+}
+
+/*Startup CSS*/
+
+.startup {
+	background-color: #2096BA;
+}
+
+/*Projects CSS*/
+
+.projects {
+	background-color: #DF6E21;
+}
+
+/*Contact Me CSS*/
+
+.contact {
+	background-color: #E7B183;
+}
+
+/*Footer*/
+
+.footer {
+	color: #476477;
+	font-size: 12px;
+}
